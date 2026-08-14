@@ -4,7 +4,7 @@ Welcome to my personal portfolio webpage! This site was developed using HTML and
 
 ## Visit the Webpage
 
-🔗 [Kham Ming Fatt - Data Analyst / Data Scientist](https://khammingfatt.github.io/)
+🔗 [Kham Ming Fatt - Data Analyst / Data Scientist](https://khammingfatt-analytico.github.io/)
 
 ## About the Webpage
 
